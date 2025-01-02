@@ -1,61 +1,87 @@
-# 🌟 Certificados e Projetos
+# 🌟 AI.Cloud.Journey 🌟
 
-Este repositório contém um resumo dos cursos, certificações e projetos realizados nas áreas de **Inteligência Artificial**, **Cloud Computing** e **Desenvolvimento**. Os cursos e certificações foram adquiridos em plataformas de ensino como **DIO**, **IBM**, **Microsoft**, entre outras.
+## Sobre
+Repositório dedicado à documentação da minha jornada em Inteligência Artificial e Cloud Computing, reunindo certificações e projetos realizados nas áreas de tecnologia emergentes. Este conteúdo demonstra minha evolução técnica e experiência prática.
 
----
+## 📚 Certificações e Cursos
 
-## 🎓 Certificados de Desenvolvimento e IA
+### 🟠 Amazon Web Services (AWS)
+- 🏆 **Fundamentos de Prompt da AWS com Claude (DIO)**
+  - Desenvolvimento de prompts eficientes para IA
+  - Integração com serviços AWS
+  - Otimização de resultados com Claude
+  - **Competências:** Prompt Engineering, IA Generativa
+  - **Carga Horária:** 2 horas
 
-### 1. **Engenharia de Prompt na AWS com Claude** *(DIO)*
-- **Data:** Agosto de 2024
-- **Descrição:** Curso avançado de criação e otimização de prompts para IA, com foco na integração de soluções AWS.
+### 🔵 Microsoft
+- 🏆 **Microsoft Azure AI Fundamentals (AI-102) - DIO**
+  - Desenvolvimento de soluções com IA na Azure
+  - Serviços cognitivos Microsoft
+  - Processamento de linguagem natural
+  - Visão computacional
+  - Machine Learning em nuvem
+  - **Carga Horária:** 42 horas
 
-### 2. **Microsoft Copilot** *(DIO)*
-- **Data:** 2024
-- **Descrição:** Treinamento sobre o uso do Microsoft Copilot, explorando sua aplicação prática para aumentar produtividade e automação.
+- 🏆 **Microsoft Copilot (DIO)**
+  - Ferramentas avançadas do Copilot
+  - Automação e produtividade
+  - Integração com Microsoft 365
+  - **Competências:** IA Generativa, Produtividade
 
-### 3. **Microsoft Azure Essentials** *(DIO)*
-- **Data:** 2024
-- **Descrição:** Introdução ao Microsoft Azure, cobrindo os principais serviços e conceitos de nuvem.
+- 🏆 **Azure Essentials (DIO)**
+  - Fundamentos da Azure
+  - Principais serviços e recursos
+  - Computação em nuvem Microsoft
+  - **Competências:** Cloud Computing
 
-### 4. **Microsoft AI-102** *(DIO)*
-- **Data:** 2024
-- **Descrição:** Preparatório + simulador para certificação AI-102 da Microsoft, incluindo voucher para realizar o exame.
-
-### 5. **Campus DIO Expert 9** *(DIO)*
-- **Data:** 2024
-- **Descrição:** Programa exclusivo da DIO focado no desenvolvimento pessoal e habilidades de autogestão.
-
-### 6. **Certificados IBM**
-- **Data:** Não especificada
-- **Descrição:** Certificações em tópicos diversos relacionados à inteligência artificial, aprendizado de máquina e tecnologias IBM.
-  - **Artificial Intelligence** (IBM)
-  - **Agile Explorer** (IBM)
-  - **Explore Emerging Tech** (IBM)
-  - **Cloud Computing Fundamentals** (IBM)
-  - **Explorations into Mindfulness** (IBM)
-
----
+### 🟣 IBM
+- 🏆 **Artificial Intelligence Foundations**
+  - Fundamentos de IA e Machine Learning
+  - Aplicações práticas de IA
+  - Introdução ao IBM Watson
+  - **Competências:** AI Fundamentals, Machine Learning
+  - **Credencial Verificada:** Credly
 
 ## 💻 Projetos Realizados
 
-### 1. **Músicas com IA** *(GitHub)*
-- **Data:** Setembro de 2024
-- **Descrição:** Projeto prático de criação musical utilizando inteligência artificial, documentado e hospedado no GitHub.
+| **Projeto** | **Descrição** | **Tecnologias** |
+|-------------|---------------|-----------------|
+| Chatbot IA | Assistente virtual inteligente | Azure AI, Python |
+| Cloud Automation | Automação de infraestrutura | Azure, PowerShell |
+| Prompt Engineering | Otimização de prompts para IA | AWS Claude |
 
-### 2. **Nexa - Projeto Final**
-- **Data:** 2024
-- **Descrição:** Desenvolvimento de um projeto final com foco em soluções práticas na área de inteligência artificial e cloud computing.
+## 🛠 Habilidades Técnicas
+
+**Cloud Computing**
+- Microsoft Azure
+- AWS
+- Cloud Architecture
+
+**Inteligência Artificial**
+- Prompt Engineering
+- Machine Learning
+- IBM Watson
+- Microsoft Copilot
+
+**Desenvolvimento**
+- Python
+- PowerShell
+- Cloud Integration
+- Automação
+
+## 🔗 Links e Contatos
+
+### Redes Profissionais
+- 💼 [LinkedIn](https://www.linkedin.com/in/luciano-girão)
+- 👨‍💻 [GitHub](https://github.com/LucianoHMG)
+- 🏆 [Credly](https://www.credly.com/users/luciano-henrique.627cec15)
+- 📚 [DIO](https://www.dio.me/users/lucianowtp)
+
+## 📧 Contato
+- Email: lucianowtp@gmail.com
 
 ---
 
-## 🎓 Curso Superior Tecnólogo
+> 💡 *"Aprendizado contínuo e prática constante são as chaves para o desenvolvimento profissional em tecnologia."*
 
-### 1. **Gerontologia Tecnológica** *(UniCV)*
-- **Data:** Em andamento
-- **Descrição:** Formação em Tecnólogo em Gerontologia, com estudos voltados ao uso de tecnologia para suporte a idosos.
-
----
-
-## 🚀 Em andamento
-- **Novos cursos e projetos serão atualizados conforme o desenvolvimento de novas habilidades e certificações.**
+📈 *Repositório em constante atualização conforme avanço nos estudos e projetos.*
