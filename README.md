@@ -11,7 +11,7 @@ Repositório dedicado à documentação da minha jornada em Inteligência Artifi
   - Integração com serviços AWS
   - Otimização de resultados com Claude
   - **Competências:** Prompt Engineering, IA Generativa
-  - **Carga Horária:** 2 horas
+  - **Carga Horária:** 40 horas
 
 ### 🔵 Microsoft
 - 🏆 **Microsoft Azure AI Fundamentals (AI-102) - DIO**
@@ -20,7 +20,7 @@ Repositório dedicado à documentação da minha jornada em Inteligência Artifi
   - Processamento de linguagem natural
   - Visão computacional
   - Machine Learning em nuvem
-  - **Carga Horária:** 42 horas
+  - **Carga Horária:** 40 horas
 
 - 🏆 **Microsoft Copilot (DIO)**
   - Ferramentas avançadas do Copilot
