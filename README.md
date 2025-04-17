@@ -69,6 +69,8 @@ Repositório dedicado à documentação da minha jornada em Inteligência Artifi
 - Cloud Integration
 - Automação
 
+https://learn.datadoghq.com/certificates/odlptocv5e
+
 ## 🔗 Links e Contatos
 
 ### Redes Profissionais
