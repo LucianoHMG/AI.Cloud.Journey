@@ -35,12 +35,12 @@ Repositório dedicado à documentação da minha jornada em Inteligência Artifi
   - **Competências:** Cloud Computing
 
 ### 🟣 IBM
-- 🏆 **Artificial Intelligence Foundations**
-  - Fundamentos de IA e Machine Learning
+
+- 🏆 **Artificial Intelligence Foundations** - Fundamentos de IA e Machine Learning
   - Aplicações práticas de IA
   - Introdução ao IBM Watson
   - **Competências:** AI Fundamentals, Machine Learning
-  - **Credencial Verificada:** Credly
+  - **Credencial Verificada:** [🔗 Ver no Credly](https://www.credly.com/users/luciano-henrique.627cec15)
 
 ## 💻 Projetos Realizados
 
@@ -74,15 +74,17 @@ https://learn.datadoghq.com/certificates/odlptocv5e
 ## 🔗 Links e Contatos
 
 ### Redes Profissionais
-- 💼 [LinkedIn](https://www.linkedin.com/in/luciano-girão)
+### Redes Profissionais
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucianogirao)
 - 👨‍💻 [GitHub](https://github.com/LucianoHMG)
-- 🏆 [Credly](https://www.credly.com/users/luciano-henrique.627cec15)
+- 🏆 [Credly - Certificações Verificadas](https://www.credly.com/users/luciano-henrique.627cec15)
 - 📚 [DIO](https://www.dio.me/users/lucianowtp)
 
 ## 📧 Contato
 - Email: lucianowtp@gmail.com
+## 🔗 Links e Contatos
 
----
 
 > 💡 *"Aprendizado contínuo e prática constante são as chaves para o desenvolvimento profissional em tecnologia."*
 
